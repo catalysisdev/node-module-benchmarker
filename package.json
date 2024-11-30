@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "chalk": "^5.2.0",
-    "execa": "^6.1.0",
+    "execa": "^7.0.0",
     "find-up": "^6.3.0",
     "node-abort-controller": "^3.0.1"
   },
